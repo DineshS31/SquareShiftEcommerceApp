@@ -1,0 +1,23 @@
+{
+  "cart": {
+    "add_item": {
+      "url": "http://localhost:5000/cart/add_item",
+      "method": "post",
+      "payload": {"product_id": 101, "quantity": 10}
+    },
+    "list_items": {
+      "url": "http://localhost:5000/cart/list_items",
+      "method": "get"
+    },
+    "get_items_total": {
+      "url": "http://localhost:5000/cart/get_items_total",
+      "method": "post",
+      "payload": {"postal_code": 465535}
+    },
+    "empty_cart": {
+      "url": "http://localhost:5000/cart/empty_cart",
+      "method": "post",
+      "payload": {"action": "empty_cart"}
+    }
+  }
+}
