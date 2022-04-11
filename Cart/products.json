@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg,",
+    "discount_percentage": "3.2",
+    "weight_in_grams": "670"
+  },
+  {
+    "id": 2,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 10 Laptops",
+    "price": 89.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "discount_percentage": "3.0",
+    "weight_in_grams": "500"
+  },
+  {
+    "id": 3,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 5 Laptops",
+    "price": 50.00,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "discount_percentage": "2.5",
+    "weight_in_grams": "400"
+  },
+  {
+    "id": 4,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 7 Laptops",
+    "price": 60.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "discount_percentage": "2.5",
+    "weight_in_grams": "410.15"
+  },
+  {
+    "id": 5,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 8 Laptops",
+    "price": 75.00,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "discount_percentage": "2.9",
+    "weight_in_grams": "425.45"
+  }
+]

@@ -1,9 +1,13 @@
 {
   "cart": {
+    "list_products": {
+      "url": "http://localhost:5000/list_products",
+      "method": "get"
+    },
     "add_item": {
       "url": "http://localhost:5000/cart/add_item",
       "method": "post",
-      "payload": {"product_id": 101, "quantity": 10}
+      "payload": {"product_id": 1, "quantity": 5}
     },
     "list_items": {
       "url": "http://localhost:5000/cart/list_items",
